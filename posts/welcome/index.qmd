@@ -1,0 +1,10 @@
+---
+title: "Journey Starts here..."
+author: "ethiri"
+date: "2024-08-06"
+categories: [views]
+---
+
+My actions are my message. Let's sit together for three minutes in science..
+![](thumbnail.jpg)
+
