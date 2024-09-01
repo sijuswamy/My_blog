@@ -1,5 +1,5 @@
 ---
-title: "The Three Days of Learning: A Journey Through Research and Reflection"
+title: "श्रद्धावान् लभते ज्ञानं: The Three Days of Learning"
 author: "Siju Swamy"
 date: "2024-09-01"
 categories: ["Research", "Workshop"]
