@@ -2,18 +2,6 @@
   "listingMap": {
     "index.qmd": [
       "posts"
-    ],
-    "posts\\Research_blog\\index.qmd": [
-      "../../posts"
-    ],
-    "posts\\New_thoughts\\index.qmd": [
-      "../../posts"
-    ],
-    "posts\\post-with-code\\index.qmd": [
-      "../../posts"
-    ],
-    "posts\\welcome\\index.qmd": [
-      "../../posts"
     ]
   }
 }
