@@ -1,0 +1,54 @@
+---
+title: "The Three Days of Learning: A Journey Through Research and Reflection"
+author: "Siju Swamy"
+date: "2024-09-01"
+categories: ["Research", "Workshop"]
+image: "amritha.png"
+format: 
+  html:
+    toc: true
+    code-fold: true
+---
+
+## Day 1: The Reality of Research
+
+Attending a three-day workshop at **Amrita Viswa Vidyapeetham, Coimbatore**, has been nothing short of transformative. Dr. Sundararajan opened the sessions with a compelling discourse on the essence and process of research, laced with insightful examples. The eye-opening session on logical thinking and types of reasoning by **Dr. M. Sethumadhavan** was equally remarkable. He emphasized the importance of rigorous thinking and declared that *no compromise in the rigour of research* could be made. 
+
+Yet, by day's end, the unvarnished reality of research loomed—a stark awakening that left me questioning whether, at 44, I had made the right choice. My wife, with a familiar tone, said, "I already told you…", as I grappled with my inner conflict:
+
+व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे |
+तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् || 2||
+
+```{=html}
+<iframe width="320" height="60"src="https://cdn.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-3-Verse-2.mp3" title="Listen to the Verses"></iframe>
+```
+
+(Meaning: With these apparently contradictory words, You seem to confuse my understanding. Therefore tell me definitely that one thing by which I shall reach the Highest Goal-Bhagavad Gita: Chapter 3, Verse 2.)
+
+## Day 2: Finding Clarity
+
+Day two brought clarity. Dr. Sundararajan’s structured approach to literature review, from condensing 100 papers to just one, was both practical and empowering. The secret, he revealed, lies in viewing one’s own paper through the eyes of a reviewer—a critical shift in mindset for successful publishing. 
+
+## Day 3: Relief and Resolution
+
+The third day, however, provided the much-needed relief. **Dr. Srinivasan C**, with deep empathy, addressed the laments of part-time researchers, offering a simple solution: attend as many sessions as possible!(near to 80% 🙂).
+
+The magic unfolded at the concluding session. **Dr. Shunmuga Velayutham C**, in less than two hours, encapsulated the entire three-day journey. His insights, tools, and tactics were like a jetpack—the "Light of lights and the innermost Self" of the workshop. His words banished the doubts that haunted the first two days. In his closing remarks, he echoed Krishna’s advice to Arjuna:
+
+इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया | विमृष्यैतदशेषेण यथेच्छसि तथा कुरु || 63||
+
+```{=html}
+<iframe width="320" height="60"src="https://www.holy-bhagavad-gita.org/public/audio/018_063.mp3" title="Listen to the Verses"></iframe>
+```
+
+(Meaning: Thus, I have explained to you this knowledge that is more secret than all secrets. Ponder over it deeply, and then do as you wish- Bhagavad Gita: Chapter 18, Verse 63.)
+
+The workshop's essence is best summarized in its guiding principle:
+
+श्रद्धावान् लभते ज्ञानं तत्पर: संयतेन्द्रिय: |
+ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति || 39||
+
+```{=html}
+<iframe width="320" height="60"src="https://www.holy-bhagavad-gita.org/public/audio/004_039.mp3" title="Listen to the Verses"></iframe>
+```
+(Meaning: Those whose faith is deep and who have practiced controlling their mind and senses attain divine knowledge- Bhagavad Gita: Chapter 4, Verse 39.)
